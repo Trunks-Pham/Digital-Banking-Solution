@@ -8,8 +8,6 @@ The **Digital Banking Solution** is a comprehensive online banking ecosystem tha
 ---
 
 ## Digital Banking Ecosystem Overview
----
-
 ### Mini Banking Solution (Version 1)
 - **Registration Screen**:  
   ![Registration Screen](https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/%C4%90%C4%83ng_k%C3%BD_nh%E1%BA%ADp.png)  
