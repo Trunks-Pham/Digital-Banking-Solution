@@ -8,6 +8,17 @@ The **Digital Banking Solution** is a comprehensive online banking ecosystem tha
 ---
 
 ## Digital Banking Ecosystem Overview
+---
+
+### Mini Banking Solution (Version 1)
+- **Registration Screen**:  
+  ![Registration Screen](https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/%C4%90%C4%83ng_k%C3%BD_nh%E1%BA%ADp.png)  
+- **Home and Information Page**:  
+  ![Home and Information Page](https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/trang_ch%E1%BB%A7_th%C3%B4ng_tin.png)
+
+### MTPE Digital Bank (Version 2)
+- **Main Interface**:  
+  ![Main Interface](https://github.com/Trunks-Pham/MTPE-Digital-Bank/blob/main/MTPE-BANK.png)
 
 The Digital Banking Solution is composed of two main projects, each contributing to a robust banking platform:
 
@@ -136,20 +147,6 @@ For **MTPE Digital Bank (Version 2)**:
   - Enable two-factor authentication (2FA).  
   - Use strong, unique passwords.  
   - Log out after each session.  
-
----
-
-## Impressive Display
-
-### Mini Banking Solution (Version 1)
-- **Registration Screen**:  
-  ![Registration Screen](https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/%C4%90%C4%83ng_k%C3%BD_nh%E1%BA%ADp.png)  
-- **Home and Information Page**:  
-  ![Home and Information Page](https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/trang_ch%E1%BB%A7_th%C3%B4ng_tin.png)
-
-### MTPE Digital Bank (Version 2)
-- **Main Interface**:  
-  ![Main Interface](https://github.com/Trunks-Pham/MTPE-Digital-Bank/blob/main/MTPE-BANK.png)
 
 ---
 
