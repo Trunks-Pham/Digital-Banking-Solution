@@ -145,7 +145,7 @@ For **MTPE Digital Bank (Version 2)**:
 - **Registration Screen**:  
   ![Registration Screen](https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/%C4%90%C4%83ng_k%C3%BD_nh%E1%BA%ADp.png)  
 - **Home and Information Page**:  
-  ![Home and Information Page](https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/trang_ch%E1%BB%A7_th%C3%B4ng_tin.pn)
+  ![Home and Information Page](https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/trang_ch%E1%BB%A7_th%C3%B4ng_tin.png)
 
 ### MTPE Digital Bank (Version 2)
 - **Main Interface**:  
