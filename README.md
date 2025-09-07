@@ -145,11 +145,11 @@ For **MTPE Digital Bank (Version 2)**:
 - **Registration Screen**:  
   ![Registration Screen]([https://github.com/Trunks-Pham/images/blob/master/Đăng_ký_nhập.png](https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/%C4%90%C4%83ng_k%C3%BD_nh%E1%BA%ADp.png)?raw=true)  
 - **Home and Information Page**:  
-  ![Home and Information Page]([https://github.com/Trunks-Pham/images/blob/master/trang_chủ_thông_tin.png](https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/trang_ch%E1%BB%A7_th%C3%B4ng_tin.png)?raw=true)
+  ![Home and Information Page]((https://github.com/Trunks-Pham/Mini-Banking-Solution/blob/main/trang_ch%E1%BB%A7_th%C3%B4ng_tin.png)?raw=true)
 
 ### MTPE Digital Bank (Version 2)
 - **Main Interface**:  
-  ![Main Interface]([https://github.com/Trunks-Pham/images/blob/master/MTPE-BANK.png](https://github.com/Trunks-Pham/MTPE-Digital-Bank/blob/main/MTPE-BANK.png)?raw=true)
+  ![Main Interface]((https://github.com/Trunks-Pham/MTPE-Digital-Bank/blob/main/MTPE-BANK.png)?raw=true)
 
 ---
 
