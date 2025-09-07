@@ -27,8 +27,6 @@ The Digital Banking Solution is composed of two main projects, each contributing
 
 ## Database Structure
 
-The system uses **MySQL** (Version 2) and **SQL Server** (Version 1) with schemas designed to support banking functionalities.
-
 **Entity Relationship Diagram (ERD):**  
 ![Database ERD](https://github.com/Trunks-Pham/images/blob/master/digital_banking_erd.png?raw=true)
 
@@ -49,19 +47,7 @@ The system uses **MySQL** (Version 2) and **SQL Server** (Version 1) with schema
 - **Transaction History:** View and filter detailed transaction logs.  
 - **User Information Security:** Robust encryption and security measures (e.g., 2FA in Version 2).  
 - **Responsive Design:** Accessible on desktop (Version 1) and web/mobile (Version 2).  
-- **Multi-Language Support:** Interface available in multiple languages (Version 2).  
-- **Authentication:** Email/password login (both versions) + Google OAuth (Version 2).  
-
-### Admin Functions (Version 2)
-- **Dashboard:** Monitor transaction volumes and user activity.  
-- **User Management:** View, edit, or suspend user accounts.  
-- **Transaction Oversight:** Audit transactions for compliance.  
-- **Security Monitoring:** Track and manage suspicious activities.  
-
-### Cron Jobs (Version 2)
-- Process scheduled transactions.  
-- Clean up expired sessions and logs.  
-- Send periodic account statements via email.  
+- **Authentication:** Email/password login (both versions).   
 
 ---
 
@@ -69,15 +55,14 @@ The system uses **MySQL** (Version 2) and **SQL Server** (Version 1) with schema
 
 For **Mini Banking Solution (Version 1)**:  
 - **Visual Studio** (with .NET Framework support)  
-- **SQL Server**  
+- **MySQL**  
 - **Git**
 
 For **MTPE Digital Bank (Version 2)**:  
 - **PHP** (>= 7.4)  
 - **Composer**  
 - **MySQL** (>= 5.7)  
-- **Redis** (optional for caching)  
-- **Web server** (e.g., Apache, Nginx, or PHP's built-in server)  
+- **Web server** (e.g., Apache, or PHP's built-in server)  
 - **Git**
 
 ---
