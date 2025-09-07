@@ -18,10 +18,7 @@ The Digital Banking Solution is composed of two main projects, each contributing
   An advanced online banking system built with **PHP (Laravel)**, **Hack**, **CSS**, and **JavaScript**, offering a responsive web interface and enhanced features.
 
 - **Core Infrastructure**  
-  - **MySQL** → Primary relational database for storing user and transaction data (Version 2).  
-  - **SQL Server** → Database for Version 1 (C# application).  
-  - **Redis** → Caching for performance optimization (Version 2).  
-  - **REST APIs** → Secure communication between frontend and backend (Version 2).  
+  - **MySQL** → Primary relational database for storing user and transaction data (Version 1 & 2).   
 
 **Architecture Diagram:**  
 ![Ecosystem Architecture](https://github.com/Trunks-Pham/images/blob/master/digital_banking_architecture.png?raw=true)
